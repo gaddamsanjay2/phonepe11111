@@ -34,6 +34,8 @@ public class RechargeFragment extends Fragment {
         page1 = root.findViewById(R.id.my_pager1);
         tabLayout1 = root.findViewById(R.id.my_tablayout1);
         // Inflate the layout for this fragment
+
+
 /*        HomeFragment homeFragment=new HomeFragment();
         getFragmentManager().beginTransaction().replace(R.id.containerid,homeFragment).commit();*/
         //listItems=new ArrayList<>();
